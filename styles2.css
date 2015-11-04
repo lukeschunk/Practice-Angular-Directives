@@ -1,0 +1,11 @@
+.home-route {
+    border: 3px solid red;
+}
+
+.directive-template {
+    border: 2px solid blue;
+}
+
+.weather-directive {
+    border: 8px solid orange;
+}
